@@ -4,3 +4,4 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 # Prepare the Data
 
+![image](https://github.com/zquiroga/CryptoClustering/assets/118328051/b96472f8-0e50-4ce2-9274-2db30c7fce6b)
