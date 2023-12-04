@@ -37,7 +37,8 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 ![image](https://github.com/zquiroga/CryptoClustering/assets/118328051/1c917801-9fe4-49e9-a155-20b0abd46f20)
 
-![image](https://github.com/zquiroga/CryptoClustering/assets/118328051/cdf4dd77-fd6f-4336-b8c1-7cc2c8cb8f3d)
+![image](https://github.com/zquiroga/CryptoClustering/assets/118328051/7b616740-b361-4e00-ad8c-ada289474c4c)
+
 
 
 
